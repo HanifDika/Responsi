@@ -87,6 +87,7 @@ Perintah ini membangun image Docker untuk website profil dengan tag website-prof
 
 # Langkah 5: Docker Volume (Opsional)
 1.	Buat volume bernama profile-images.
+   
   ![image](https://github.com/HanifDika/Responsi/assets/94159054/5527d80f-26c6-4798-8888-39af21539c39)
 
 Pembahasan :

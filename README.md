@@ -12,6 +12,7 @@ Pembahasan :
 Perintah ini membuka editor teks nano untuk membuat dan mengedit file index.html di dalam direktori website-utama.
 
 Isi file index.html dengan konten berikut:
+
  <img width="426" alt="image" src="https://github.com/HanifDika/Responsi/assets/94159054/38c46175-9901-473e-92bc-224002934d6d">
 
 Pembahasan :

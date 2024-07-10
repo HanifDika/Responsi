@@ -115,26 +115,3 @@ Perintah ini menjalankan container Docker untuk website profil dalam mode detach
 
 # Kesimpulan :
 Laporan ini menjelaskan langkah-langkah mendetail untuk membuat dan menjalankan dua situs web sederhana menggunakan Docker. Dimulai dengan persiapan direktori dan file, kemudian pembuatan jaringan Docker, dan dilanjutkan dengan pembuatan Dockerfile untuk setiap situs. Setelah membangun image Docker dari Dockerfile tersebut, kedua kontainer dijalankan menggunakan jaringan yang sama dengan pemetaan port yang berbeda. Hasil akhirnya adalah dua situs web yang dapat diakses secara terpisah melalui port 8080 dan 8081, menunjukkan kemampuan Docker dalam mengisolasi dan mengelola aplikasi web secara efisien.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img width="429" alt="image" src="https://github.com/HanifDika/Responsi/assets/94159054/6375012e-95cd-4907-8a36-b96649f9ecc9">

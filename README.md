@@ -46,6 +46,7 @@ Perintah ini membuat jaringan Docker baru dengan nama my-hanif-farhandika-networ
 # Langkah 3: Dockerfile dan Image
 Dockerfile untuk Website Utama
 1.	Buat file Dockerfile di dalam direktori website-utama.
+   
  <img width="429" alt="image" src="https://github.com/HanifDika/Responsi/assets/94159054/d6bcfd2c-2441-4865-b9e1-27513a42574e">
 
 Pembahasan :

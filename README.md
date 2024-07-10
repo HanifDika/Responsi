@@ -61,7 +61,10 @@ Ini adalah Dockerfile untuk website utama yang menggunakan image dasar Nginx dan
 
 # Dockerfile untuk Website Profil
 1.	Buat file Dockerfile di dalam direktori website-profil.
-  ![image](https://github.com/HanifDika/Responsi/assets/94159054/1696f145-fd09-4b46-87e7-221d63745d31)
+ 
+ 
+ ![image](https://github.com/HanifDika/Responsi/assets/94159054/a7c456b2-ce08-4dfb-a7bf-9cf411cc2ac0)
+
 
 Pembahasan :
 Perintah ini membuka editor teks nano untuk membuat dan mengedit file Dockerfile di dalam direktori website-profil.
